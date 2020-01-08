@@ -1,4 +1,4 @@
-<h1 align="center">buffer_text 1.0.0</h1>
+<h1 align="center">buffer_bin 1.0.0</h1>
 
 ### @jujuadams
 
