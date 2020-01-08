@@ -1,0 +1,1 @@
+buffer_bin_async_event();
